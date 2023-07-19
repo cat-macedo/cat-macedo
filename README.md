@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cat-macedo)](https://github.com/cat-macedo/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cat-macedo)](https://github.com/cat-macedo/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vat-macedo&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cat-macedo&show_icons=true&theme=radical)
