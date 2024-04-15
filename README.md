@@ -12,7 +12,7 @@
 
 <h3 align="left">I'm learning:</h3>
 <p align="left"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+            <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cat-macedo)](https://github.com/cat-macedo/github-readme-stats)
