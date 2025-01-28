@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Catarina de Macedo Scabelli</h1>
-<h3 align="center">I'm a beginner in programming. I already have some knowledge in HTML and CSS and the basics of JavaScript. At university, I'm getting to know more languages, like C.</h3>
+<h3 align="center">I'm a beginner in programming. I already have some knowledge in HTML and CSS and the basics of JavaScript. At university, I'm getting to know more languages, like C, R and SQL.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,9 +12,16 @@
 
 <h3 align="left">I'm learning:</h3>
 <p align="left"> 
-            <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+            <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+            <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg">
+            <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+          
+          
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cat-macedo)](https://github.com/cat-macedo/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cat-macedo&show_icons=true&theme=radical)
+
+<h3 align="left"> My Octocat: </h3>
+<img src="https://camo.githubusercontent.com/f446be36f233a5052f7be499f059d67f47d3057349b3e0e16e6344fba853f731/68747470733a2f2f692e696d6775722e636f6d2f416b56464e6d512e706e67" alt="Meu octocat" width="300" height="300">
