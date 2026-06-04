@@ -9,27 +9,16 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-            <!-- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">  -->
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"         width="40" height="40"/> </a> 
-            <!-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">  -->
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-            <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  -->
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/> <!-- Python -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <!-- MySQL -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <!-- HTML5 -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"         width="40" height="40"/> <!-- CSS -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <!-- JavaScript -->
 </p>
 
-<!-- <h3 align="left">I'm learning:</h3>
-<p align="left"> 
-            <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-            <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg">
-            <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"> -->
-          
-<!-- </p> -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cat-macedo)](https://github.com/cat-macedo/github-readme-stats) -->
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cat-macedo&show_icons=true&theme=radical) -->
-
-<!-- <h3 align="left"> My Octocat: </h3>
-<img src="https://camo.githubusercontent.com/f446be36f233a5052f7be499f059d67f47d3057349b3e0e16e6344fba853f731/68747470733a2f2f692e696d6775722e636f6d2f416b56464e6d512e706e67" alt="Meu octocat" width="300" height="300"> -->
+<!-- Stats -->
+<img src="https://raw.githubusercontent.com/cat-macedo/cat-macedo/mai/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/cat-macedo/cat-macedo/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/cat-macedo/cat-macedo/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
