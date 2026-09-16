@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Catarina de Macedo Scabelli</h1>
-<h3 align="center">Information Systems student @ USP | Data Analysis & Dashboard Development | Python, SQL, Streamlit, Git & Github</h3>
+<h3 align="center">Information Systems student @ USP | Data Analysis & Dashboard Development | Python, SQL, Streamlit, Power BI</h3>
 
 ###
 
@@ -13,11 +13,24 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/> <!-- Python -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <!-- MySQL -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <!-- HTML5 -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"         width="40" height="40"/> <!-- CSS -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <!-- JavaScript -->
+  
+<!-- Python -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+
+<!-- MySQL -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+
+<!-- Power BI -->
+<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="Power BI" width="40" height="40"/>
+
+<!-- HTML5 -->
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> -->
+
+<!-- CSS -->
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"         width="40" height="40"/> -->
+
+<!-- JavaScript -->
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> -->
 </p>
 
 ###
